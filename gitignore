@@ -1,0 +1,12 @@
+*.swp
+*.swo
+*.swn
+*.swm
+.vagrant
+modules/
+.librarian
+Puppetfile.lock
+Gemfile.lock
+.tmp/
+*.tar.gz
+*.log
